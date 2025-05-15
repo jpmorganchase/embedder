@@ -66,7 +66,7 @@ ipywidgets==8.0.6
 isoduration==20.11.0
 jax==0.4.2
 jedi==0.18.2
-Jinja2==3.1.2
+Jinja2==3.1.6
 jmespath==1.0.1
 jsonpointer==2.4
 jsonschema==4.17.3
